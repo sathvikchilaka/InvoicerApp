@@ -14,4 +14,4 @@
 
 
 
-### Built by [Thomas Sankara & Sujith Chalmalla]
+### Built by [Sathvik Chilaka]
